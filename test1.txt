@@ -1,0 +1,7 @@
+cmd:
+    git config --global user.name "sathish"
+    git config --global user.email "sathishk52630@gmail.com"
+
+    git clone <link>
+    git status
+    git add test1.txt
